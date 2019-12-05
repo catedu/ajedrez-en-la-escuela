@@ -1,3 +1,14 @@
-# My Awesome Book
+# Ajedrez en la escuela
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+El juego del ajedrez favorece, entre otras capacidades, la memoria, la concentración, la toma de decisiones, la reflexión, la visión espacial o el razonamiento lógico-matemático. Desde un punto de vista emocional, la práctica del ajedrez ayuda a reconocer los errores, a no buscar excusas, a obtener un sentido de logro y una mayor autoestima, a llevar la iniciativa cuando es preciso, tanto dentro como fuera del tablero.
+
+En Aragón llevamos desde el curso 2007/08 trabajando con el programa de Ajedrez en la Escuela, sumándose cada vez más centros y llevando el Ajedrez a sus aulas. Para ello creemos importante la formación en la enseñanza de este juego-ciencia.
+
+Este curso está destinado a todos aquellos que aunque no sepan jugar al ajedrez y
+
+ quieran llevarlo a sus clases. No os preocupéis porque aprendereis a la vez a jugar y a enseñarlo de una manera divertida y práctica.
+
+Tanto la progresión como los recursos que proponemos han sido probados con éxito a lo largo de los años.
+
+
+
