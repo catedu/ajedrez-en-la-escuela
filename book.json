@@ -1,0 +1,39 @@
+{
+    "plugins": [
+        "youtube",
+        "image-captions",
+        "accordion",
+        "styled-blockquotes",
+        "localized-footer",
+        "edit-link",
+        "githubcontributors"
+    ],
+    "language": "es",
+    "variables": {
+        "title": "Ajedrez en la escuela",
+        "author": "Miriam Monreal Aladrén y Enrique _______ ",
+        "collaborators": [
+            {
+                "name": "_________",
+                "edited": "_____________"
+            }
+        ]
+    },
+    "pluginsConfig": {
+        "image-captions": {
+            "caption": "Imagen - _CAPTION_"
+        },
+        "localized-footer": {
+            "hline": true,
+            "filename": "./FOOTER.md"
+        },
+        "edit-link": {
+            "base": "https://github.com/catedu/ajedrez-en-la-escuela/edit/master/",
+            "label": "Edita esta página"
+        },
+        "githubcontributors": {
+            "githubOwner": "catedu",
+            "githubRepository": "ajedrez-en-la-escuela"
+        }
+    }
+}
