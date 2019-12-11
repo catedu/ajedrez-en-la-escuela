@@ -9,3 +9,7 @@
   .right {
     width: 75%;
   }
+
+img.left_aligned {
+  margin-right: 2em;
+}

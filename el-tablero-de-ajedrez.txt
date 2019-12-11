@@ -1,0 +1,79 @@
+::Cómo se llama la casilla
+:: Cómo se llama la casilla {
+~e1
+~d8
+=d5
+~h3
+}
+
+::Cómo se llama la casilla
+:: Cómo se llama la casilla {
+=f3
+~a3
+~3f
+~g4
+}
+
+::¿De qué color es la casilla que tienes en la esquina derecha del tablero?
+:: ¿De qué color es la casilla que tienes en la esquina derecha del tablero? {
+~Negra
+~Depende de la partida
+=Blanca
+~Rayada
+}
+
+::Cómo se llama esa parte del tablero
+:: Cómo se llama esa parte del tablero {
+~columna
+=fila
+~diagonal
+~casilla
+}
+
+::Cómo se llama esa parte del tablero
+:: Cómo se llama esa parte del tablero {
+=columna
+~fila
+~diagonal
+~casilla
+}
+
+::Cómo se llama esa parte del tablero
+:: Cómo se llama esa parte del tablero {
+~columna
+~fila
+=diagonal
+~casilla
+}
+
+::Cómo se llama esa fila
+:: Cómo se llama esa fila {
+~a
+~7
+=2
+~c
+}
+
+::Como se llama esa columna
+:: Como se llama esa columna {
+=d
+~1
+~h
+~4
+}
+
+::El caballo y la dama negras están en la
+:: El caballo y la dama negras están en la {
+~Columna 1
+~Columna d
+~Columna 8
+=Columna g
+}
+
+::La torre blanca y el rey blanco están en la...
+:: La torre blanca y el rey blanco están en la... {
+=fila 6
+~fila h
+~fila 2
+~fila 8
+}
