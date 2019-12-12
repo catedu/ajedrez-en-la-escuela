@@ -4,7 +4,7 @@ import time
 
 browser = webdriver.Firefox()
 
-browser.get('https://create.kahoot.it/details/el-tablero-de-ajedrez/097aeb8c-841a-4a3f-8a06-3635fb720236')
+browser.get('https://create.kahoot.it/details/el-caballo-en-el-ajedrez/c6ed8341-1b1c-4ac5-86db-14e14150896a')
 
 time.sleep(3)
 

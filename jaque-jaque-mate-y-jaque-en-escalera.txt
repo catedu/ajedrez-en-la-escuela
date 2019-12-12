@@ -1,0 +1,80 @@
+::¿Cuándo se produce jaque?
+:: ¿Cuándo se produce jaque? {
+~Cuando nuestro rey no puede moverse
+~Cuando se acaba la partida
+~Cuando nuestra reina es capturada
+=Cuando una pieza rival mueve y queda amenazado nuestro rey
+}
+
+::¿Cómo podemos salvar a nuestro rey de un jaque?
+:: ¿Cómo podemos salvar a nuestro rey de un jaque? {
+~Comiendo la pieza rival
+~Quitándonos del jaque a una casilla no amenazada
+~Tapándonos con otra pieza
+=Las 3 anteriores son correctas
+}
+
+::¿Cuándo se produce jaque mate?
+:: ¿Cuándo se produce jaque mate? {
+~Cuando el rey no se puede mover
+~Cuando el rey es amenazado
+=Cuando se amenaza el rey y no se puede librar de esa amaneza
+~Cuando la reina es capturada
+}
+
+::¿Dónde colocamos las torres para hacer jaque?
+:: ¿Dónde colocamos las torres para hacer jaque? {
+~Blanca h4 y negra g2
+=Blanca e1 y negra b6
+~Blanca g2 y negra b6
+~Blanca e1 y negra b3
+}
+
+::¿Dónde colocamos las torres para hacer jaque?
+:: ¿Dónde colocamos las torres para hacer jaque? {
+~Blanca e8 y negra f2
+~Blanca e7 y negra d6
+~Blanca e5 y negra f1
+=Blanca e8 y negra f1
+}
+
+::¿Dónde puede mover el rey que está en jaque?
+:: ¿Dónde puede mover el rey que está en jaque? {
+~e8
+~f7
+=e7
+~g8
+}
+
+::¿Cómo puedo evitar el jaque al rey negro sin mover dicho rey?
+:: ¿Cómo puedo evitar el jaque al rey negro sin mover dicho rey? {
+~Peón d6
+~Rey f7
+=Peón e6
+~Peón g6
+}
+
+::¿Dónde debo mover la torre para hacer jaque mate?
+:: ¿Dónde debo mover la torre para hacer jaque mate? {
+~Torre negra g4
+~Torre blanca a4
+=Torre blanca a8
+~Torre negra d6
+}
+
+::¿Dónde debo mover la torre para hacer jaque mate?
+:: ¿Dónde debo mover la torre para hacer jaque mate? {
+~e3
+=b1
+~f3
+~b2
+}
+
+::¿Qué debería jugar el blanco?
+:: ¿Qué debería jugar el blanco? {
+~Th6
+~Ta8
+=Th7
+~Te1
+}
+

@@ -17,6 +17,12 @@
 * [El tablero de ajedrez](el_tablero_de_ajedrez.md)
 * [Colocación de las piezas en el tablero](piezas_en_el_tablero.md)
   * [El Rey](rey.md)
+  * [La Torre](torre.md)
+    * [Jaque y jaque mate](jaque_y_jaque_mate.md)
+  * [El Afil](alfil.md)
+  * [La Dama](dama.md)
+    * [Mate del beso de la muerte](mate_del_beso.md)
+  * [El Caballo](caballo.md)
 
 ---
 

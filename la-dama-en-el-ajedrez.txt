@@ -1,0 +1,80 @@
+::¿En qué direcciones puede moverse la dama?
+:: ¿En qué direcciones puede moverse la dama? {
+~Hacia delante y hacia atrás en zig-zag
+~Hacia delante, hacia atrás y a derecha recto
+=Uniendo los movimientos de la torre y el alfil
+~A saltos
+}
+
+::Al inicio de la partida ¿en qué posición se sitúan las damas de los dos equipos?
+:: Al inicio de la partida ¿en qué posición se sitúan las damas de los dos equipos? {
+~Blanca d8 y negra d1
+~Blanca e1 y negra e8
+=Blanca d1 y negra d8
+~Blanca e8 y negra e1
+}
+
+::La dama al inicio de la partida siempre se coloca en su color y en la columna de su letra
+:: La dama al inicio de la partida siempre se coloca en su color y en la columna de su letra {
+~No siempre
+~Falso
+~A veces
+=Verdadero
+}
+
+::Descubre qué dos piezas están mal colocadas al inicio de la partida
+:: Descubre qué dos piezas están mal colocadas al inicio de la partida {
+~La dama y el caballo negros
+~La dama y el alfil blancos
+~La dama y el rey negros
+=La dama y el alfil negros
+}
+
+::Fíjate en la imagen y di cuántas casillas controla la dama
+:: Fíjate en la imagen y di cuántas casillas controla la dama {
+~20
+=23
+~18
+~13
+}
+
+::¿A cuántas casillas puede mover la dama blanca?
+:: ¿A cuántas casillas puede mover la dama blanca? {
+~10
+~11
+=13
+~12
+}
+
+::¿Qué piezas puede comer la dama negra?
+:: ¿Qué piezas puede comer la dama negra? {
+~A todas las que quiera
+~El alfil
+~La torre y el peón
+=El caballo o el peón
+}
+
+::¿A qué piezas puede capturar la dama blanca?
+:: ¿A qué piezas puede capturar la dama blanca? {
+~Reina y torre
+~Peón y caballo
+~Peón
+=Torre o peón
+}
+
+::Menor nº de movimientos para que la dama capture todos los peones (que no se pueden mover)
+:: Menor nº de movimientos para que la dama capture todos los peones (que no se pueden mover) {
+~5
+~4
+~7
+=6
+}
+
+::Menor nº de movimientos para que la dama capture todos los peones (que no se pueden mover)
+:: Menor nº de movimientos para que la dama capture todos los peones (que no se pueden mover) {
+~5
+~8
+=7
+~6
+}
+

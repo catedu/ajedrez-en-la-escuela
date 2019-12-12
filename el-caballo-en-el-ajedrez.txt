@@ -1,0 +1,80 @@
+::¿Cómo se mueve el caballo?
+:: ¿Cómo se mueve el caballo? {
+~Hacia delante y hacia atrás en zig-zag
+~Hacia delante, hacia atrás y a izquierda recto
+=Se mueve en L, dando 3 saltos
+~En diagonal
+}
+
+::Los caballos blancos al inicio de la partida siempre se colocan en b1 y f1
+:: Los caballos blancos al inicio de la partida siempre se colocan en b1 y f1 {
+~No siempre
+=Falso
+~A veces
+~Verdadero
+}
+
+::Al inicio de la partida ¿en qué posición se sitúan los caballos negros?
+:: Al inicio de la partida ¿en qué posición se sitúan los caballos negros? {
+~b1 y g1
+~b1 y g8
+=b8 y g8
+~c8 y g8
+}
+
+::Un caballo en el centro del tablero, ¿cuántos saltos diferentes puede dar y qué figura forma?
+:: Un caballo en el centro del tablero, ¿cuántos saltos diferentes puede dar y qué figura forma? {
+~8 saltos y forma un cuadrado
+~9 saltos y forma un círculo
+~8 saltos y forma un triángulo
+=8 saltos y forma un círculo
+}
+
+::¿A cuántas casillas y a cuáles puede mover el caballo blanco?
+:: ¿A cuántas casillas y a cuáles puede mover el caballo blanco? {
+~2 casillas: d2 y c3
+~4 casillas: a3, c3, b3 y d2
+~1 casilla: d2
+=3 casillas: a3, c3 y d2
+}
+
+::¿A cuántas casillas y a cuáles puede mover el caballo blanco?
+:: ¿A cuántas casillas y a cuáles puede mover el caballo blanco? {
+~2 casillas: a4 y d1
+~2 casillas: d3 y c4
+=4 casillas: a4, d1, d3 y c4
+~3 casillas: d1, d3 y c4
+}
+
+::¿A qué piezas puede capturar el caballo negro?
+:: ¿A qué piezas puede capturar el caballo negro? {
+~Reina y torre
+~Reina y alfil
+~Alfil y peón
+=Reina, alfil y torre
+}
+
+::¿A qué piezas puede capturar el caballo negro?
+:: ¿A qué piezas puede capturar el caballo negro? {
+~Reina, torre y peón en e4
+=Reina, torre y peón en c4
+~Torre y peón en e4
+~Reina, alfil y torre
+}
+
+::¿Dónde moverías el caballo para amenazar al mayor número de piezas?
+:: ¿Dónde moverías el caballo para amenazar al mayor número de piezas? {
+~b3
+~f3
+~c6
+=c2
+}
+
+::¿Dónde moverías el caballo para amenazar al mayor número de piezas?
+:: ¿Dónde moverías el caballo para amenazar al mayor número de piezas? {
+~c5
+~f2
+=c3
+~f6
+}
+
