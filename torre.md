@@ -60,7 +60,7 @@ La progresión adecuada de los ejercicios es la siguiente:
 4. Puedo capturar a la pieza rival que captura >>> HAGO VISIBLE AL RIVAL. Aparece el rival.
 
 >**tip**
->Ejercicio - Colocar una Torre que ataque a dos peones a la vez. Peones blancos en c7 y g4\. ¿Dónde coloco una Torre que ataque a ambos? En c4 y g7.
+>Ejercicio - Colocar una Torre que ataque a dos peones a la vez. Peones blancos en c7 y g4. ¿Dónde coloco una Torre que ataque a ambos? En c4 y g7.
 
 >![](img/image126.png)
 

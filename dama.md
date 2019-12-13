@@ -17,7 +17,7 @@ Se puede empezar colocando la dama en el tablero mural y peones para que se los 
 Sin embargo, es importante que se realicen ejercicios de jaque. Son rápidos, necesarios y atractivos para los alumnos.
 
 >**tip**
->**Ejercicio** - Rey blanco en e6, dama blanca en g5 y rey negro en e8\. ¿Cuántos jaques hay?
+>**Ejercicio** - Rey blanco en e6, dama blanca en g5 y rey negro en e8. ¿Cuántos jaques hay?
 
 >![](img/image35.png)
 
@@ -32,7 +32,7 @@ Los alumnos deben ser conscientes de que no todos los jaques son iguales.
 ¿Qué jaques son los mejores? ¿Por qué? Debe dar pie a explicar los mates de pasillo (Dg8++) y el importante mate del “Beso de la muerte” (De7++), que los jugadores van a emplear muchísimo en sus partidas.
 
 >**tip**
->**Ejercicio** - Dama blanca en d1, seis peones negros en a3, d6, f3, f8, h2 y h6\. La dama tiene que comerse todos los peones en seis movimientos.
+>**Ejercicio** - Dama blanca en d1, seis peones negros en a3, d6, f3, f8, h2 y h6. La dama tiene que comerse todos los peones en seis movimientos.
 
 >![](img/image73.png)
 
@@ -41,7 +41,7 @@ Los alumnos deben ser conscientes de que no todos los jaques son iguales.
 ---
 
 >**tip**
->**Ejercicio** - Tres peones blancos en a3, f1 y h6\. Hay que buscar las posiciones de una dama negra que ataque a los tres peones a la vez. Cuatro soluciones: a6, c1, f8 y h3.
+>**Ejercicio** - Tres peones blancos en a3, f1 y h6. Hay que buscar las posiciones de una dama negra que ataque a los tres peones a la vez. Cuatro soluciones: a6, c1, f8 y h3.
 
 >|![](img/image66.png)|![](img/image30.png)|
 |---|---|

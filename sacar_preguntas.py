@@ -4,7 +4,7 @@ import time
 
 browser = webdriver.Firefox()
 
-browser.get('https://create.kahoot.it/details/el-caballo-en-el-ajedrez/c6ed8341-1b1c-4ac5-86db-14e14150896a')
+browser.get('https://create.kahoot.it/details/el-enroque/86a56c37-78c4-4680-9bf9-931bf2bc1f82')
 
 time.sleep(3)
 
@@ -32,8 +32,12 @@ with open(file_title, 'a') as file:
         respuesta_c = textos[7]
         c_is_correct = '=' if 'correct' in textos[8] else '~'
 
-        respuesta_d = textos[9]
-        d_is_correct = '=' if 'correct' in textos[10] else '~'
+        try:
+            respuesta_d = textos[9]
+            d_is_correct = '=' if 'correct' in textos[10] else '~'
+        except:
+            respuesta_d = ''
+            d_is_correct = ''
 
         pregunta = "::{0}\n:: {0} {{\n{1}{2}\n{3}{4}\n{5}{6}\n{7}{8}\n}}\n\n".format(
             titulo_pregunta,

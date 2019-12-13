@@ -31,3 +31,7 @@ div.localized-footer > hr {
 table, th, td {
   border-color:transparent;
 }
+
+a.gitbook-link {
+  visibility: hidden;
+}

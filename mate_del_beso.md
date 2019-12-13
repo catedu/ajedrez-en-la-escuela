@@ -11,14 +11,14 @@ Ya habíamos visto uno.
 Para familiar a los chicos con el jaque son buenos los ejercicios de "pieza fantasma".
 
 >**tip**
->**Ejercicio** - Rey blanco en c6, rey negro en a5\. ¿Dónde está la dama blanca para mate? Db5
+>**Ejercicio** - Rey blanco en c6, rey negro en a5. ¿Dónde está la dama blanca para mate? Db5
 
 >![](img/image60.png)
 
 ---
 
 >**tip**
->**Ejercicio** - Rey blanco en f6, rey negro en g8\. ¿Dónde está la dama blanca para que dé mate? Dg7
+>**Ejercicio** - Rey blanco en f6, rey negro en g8. ¿Dónde está la dama blanca para que dé mate? Dg7
 
 >![](img/image44.png)
 

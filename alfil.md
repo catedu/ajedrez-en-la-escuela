@@ -23,13 +23,13 @@ Hay que hacer muchos ejercicios de rebote para que los niños no se tuerzan y si
 
 **OBERVACIÓN**: Se trabaja de lo concreto a lo abstracto. Cada vez se convierte más en un trabajo de visualización.
 
-Ejercicio - El tablero es una mesa de billar y el alfil es una bolita. Alfil blanco en a4\. ¿Dónde rebota? En d8, h4 y e1.
+Ejercicio - El tablero es una mesa de billar y el alfil es una bolita. Alfil blanco en a4. ¿Dónde rebota? En d8, h4 y e1.
 
 |![](img/image123.png)|![](img/image84.png)|![](img/image80.png)|
 |---|---|---|
 
 >**tip**
->**Ejercicio** - Alfil negro en f8, peones blancos en a7, b4, d2, e4, f6 y g3\. Hay que comerse todos los peones. Hay uno en casilla blanca por lo que no me puedo comer todos.
+>**Ejercicio** - Alfil negro en f8, peones blancos en a7, b4, d2, e4, f6 y g3. Hay que comerse todos los peones. Hay uno en casilla blanca por lo que no me puedo comer todos.
 
 >![](img/image122.png)
 
