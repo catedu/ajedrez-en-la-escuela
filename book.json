@@ -6,7 +6,8 @@
         "styled-blockquotes",
         "localized-footer",
         "edit-link",
-        "githubcontributors"
+        "githubcontributors",
+        "ga"
     ],
     "language": "es",
     "variables": {
@@ -20,6 +21,9 @@
         ]
     },
     "pluginsConfig": {
+        "ga": {
+            "token": "UA-135691041-2"
+        },
         "image-captions": {
             "caption": "Imagen - _CAPTION_"
         },
