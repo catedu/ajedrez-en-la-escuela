@@ -9,5 +9,5 @@ Este curso está destinado a todos aquellos que aunque no sepan jugar al ajedrez
 Tanto la progresión como los recursos que proponemos han sido probados con éxito a lo largo de los años.
 
 <div class="container center">
-<img src='assets/chess.svg' alt='' width='300'/>
+<img src='assets/chess.png' alt='' width='300'/>
 </div>
