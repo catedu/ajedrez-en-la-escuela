@@ -10,6 +10,7 @@ Tanto la progresión como los recursos que proponemos han sido probados con éxi
 
 >**info**
 >Si quieres mantenerte en contacto con esta comunidad de ajedrecistas, no olvides unirte al [grupo público de Facebook del programa 'Ajedrez en la Escuela']('Ajedrez en la Escuela')
+>
 
 <div class="container center">
 <img src='assets/chess.png' alt='' width='300'/>
