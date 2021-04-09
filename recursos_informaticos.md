@@ -1,5 +1,8 @@
 # Recursos informáticos
 
+>**info**
+>Si quieres mantenerte en contacto con esta comunidad de ajedrecistas, no olvides unirte al [grupo público de Facebook del programa 'Ajedrez en la Escuela']('Ajedrez en la Escuela')
+
 ## [Ajedrez a la escuela](https://www.ajedrezalaescuela.eu/)
 
 Página web de Ajedrez a la escuela: [https://www.ajedrezalaescuela.eu/](https://www.google.com/url?q=https://www.ajedrezalaescuela.eu/&sa=D&ust=1576068136942000)
