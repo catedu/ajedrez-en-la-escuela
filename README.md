@@ -9,7 +9,7 @@ Este curso está destinado a todos aquellos que aunque no sepan jugar al ajedrez
 Tanto la progresión como los recursos que proponemos han sido probados con éxito a lo largo de los años.
 
 >**info**
->Si quieres mantenerte en contacto con esta comunidad de ajedrecistas, no olvides unirte al [grupo público de Facebook del programa 'Ajedrez en la Escuela']('Ajedrez en la Escuela')
+>Si quieres mantenerte en contacto con esta comunidad de ajedrecistas, no olvides unirte al [grupo público de Facebook del programa 'Ajedrez en la Escuela'](https://www.facebook.com/groups/180703378626381)
 >
 
 <div class="container center">

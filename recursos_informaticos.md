@@ -1,7 +1,7 @@
 # Recursos informáticos
 
 >**info**
->Si quieres mantenerte en contacto con esta comunidad de ajedrecistas, no olvides unirte al [grupo público de Facebook del programa 'Ajedrez en la Escuela']('Ajedrez en la Escuela')
+>Si quieres mantenerte en contacto con esta comunidad de ajedrecistas, no olvides unirte al [grupo público de Facebook del programa 'Ajedrez en la Escuela'](https://www.facebook.com/groups/180703378626381)
 
 ## [Ajedrez a la escuela](https://www.ajedrezalaescuela.eu/)
 
